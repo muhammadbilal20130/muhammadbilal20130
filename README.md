@@ -1,5 +1,5 @@
-- 👋 Hi, I’m MMuhammad Bilal
-- 👀 I’m interested in web developments and books reading
-- 🌱 I’m currently learning web development
-- 📫 You can reach to me by instagram @muhammadbilal10240
+- 👋 Hi, I’m Muhammad Bilal
+- 👀 I’m interested in Software developments and books reading
+- 🌱 I’m currently learning Moible App development
+- 📫 You can reach to me by instagram @muhammadbilal10240 and Email muhammadbilal20130@gmail.com
 
